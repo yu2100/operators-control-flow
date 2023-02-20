@@ -1,5 +1,6 @@
 Q1 Answer 
 a. Arithmetic operators symbols
+
    + addition operator
    - subtraction operator
    * multiplication operator
@@ -15,6 +16,7 @@ a. Arithmetic operators symbols
 
 
 b. Assignment operators symbols
+
    =  assignment
    += addition assignment
    -= subtraction assignment
@@ -23,6 +25,7 @@ b. Assignment operators symbols
    %= modulus and assignment
 
 c. comparison operator
+
    > greater than
    >= greater than or equal to
    < less than
@@ -33,6 +36,7 @@ c. comparison operator
    === strict equality (triple equals)
 
 d. Logical operator
+
    &&  AND
    || OR
    !  NOT

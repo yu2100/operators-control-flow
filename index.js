@@ -26,7 +26,6 @@ for (let index = 1; index < 6; index++) {
   console.log(pwr);
     if (pwr < num){
         console.log("The number " +pwr+ " is the power of 2 nearest to " +num+ ".")
-    }else{
-        console.log('Null'); 
+    };
            
-    }
+    

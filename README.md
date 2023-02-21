@@ -1,9 +1,10 @@
 Q1 Answer 
+
 a. Arithmetic operators symbols
 
-   + addition operator
-   - subtraction operator
-   * multiplication operator
+   addition operator+
+   subtraction operator-
+   multiplication operator*
    / division operator
    ** exponentiation operator
    % modulo operator
